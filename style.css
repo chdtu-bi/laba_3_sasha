@@ -1,0 +1,17 @@
+header {
+    font-family: "Comic Sans MS";
+    text-align: center;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+address.author {
+    text-align: right;
+    font-size: 14px;
+}
