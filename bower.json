@@ -1,0 +1,20 @@
+{
+  "name": "laba_3",
+  "homepage": "https://github.com/chdtu-bi/laba_3_sasha",
+  "authors": [
+    "alexandrm <oleksandrm@Interlink-ua.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
